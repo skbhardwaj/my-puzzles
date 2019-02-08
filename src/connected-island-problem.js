@@ -7,16 +7,14 @@ Given the data of islands in form of 0s & 1s, wherein 0s represent water & 1s re
 We need to find all the connected islands(connected 1s) from the data provided.
 Hint: Consider all 8 directions! [E,W,N,S,NE,NW,SE,SW]
 
-The input would be in the form of 3 lines:
-1st line = number of test cases
-2nd line = size of the matrix
-3rd line = data of matrix
+The input would be in the form of 2 lines:
+1st line = size of the matrix
+2nd line = data of matrix
 
 EXAMPLE:
 ========
 Input(visual):
 --------------
-1
 5 5
 0001010011110000100001110
 
